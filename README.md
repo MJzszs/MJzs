@@ -1,1 +1,2 @@
 # MJzs
+print('hello world')
